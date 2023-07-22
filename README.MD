@@ -5,5 +5,5 @@
 Para rodar esse projeto por favor digite:
 
 ```
-node app.jsq
+node app.js
 ```
